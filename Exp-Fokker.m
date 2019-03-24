@@ -1,17 +1,6 @@
 
+%nonlinear fokker planck equation with GLGGL collocation method
 function Fokker_nonlinear
-
-
-global delta_t
-global N
-global x
-global teta
-global A1
-global A2
-global A3
-global A4
-global A5
-global C
 
 alpha_=0.5;
 
