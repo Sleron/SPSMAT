@@ -5,9 +5,6 @@
 
 
 function out=D(n,a_,b_)
-%note: must be changed to D_jacobi
-
-
 
 E=zeros(n,n);
 for i=1:1:n
@@ -24,7 +21,6 @@ end%for
 
 %D
 
-%[zeros(n+1,1),[inv(E);zeros(1,n)]]
 out=[zeros(n+1,1),[inv(E);zeros(1,n)]];
 out=2*out;
 end%function
