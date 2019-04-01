@@ -19,8 +19,6 @@ b=u(0);
 %[A,B]
 A=(-b-1)/a;
 B=(1-b)/a;
-
-%note: must be changed to G_jacobi
 G=zeros(n+1,n+1);
 
 for i=1:1:n+1
