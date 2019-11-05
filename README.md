@@ -5,7 +5,7 @@ There is a worthy Guidance in ./SPSMATDocumentation.pdf file. To learn how to wo
 
 This package is written in GNU Octave (Open source Matlab). See [Octave](https://www.gnu.org/software/octave/).
 
-All [Linux](https://wiki.octave.org/Octave_for_GNU/Linux), [Mac](https://wiki.octave.org/Octave_for_macOS), and [Windows](https://wiki.octave.org/Octave_for_Microsoft_Windows) users can download and use Octave.
+All [Linux](https://wiki.octave.org/Octave_for_GNU/Linux), [Mac](https://wiki.octave.org/Octave_for_macOS), and [Windows](https://wiki.octave.org/Octave_for_Microsoft_Windows) users can download and use Octave. Also, the [online version of Octave] (https://octave-online.net/) is available to run and test codes.
 
 For using the SPSMAT package you need to download and install [git](https://gist.github.com/derhuerst/1b15ff4652a867391f03).
 Then you can have a copy of SPSMAT on your system by running a command on your terminal or cmd:
