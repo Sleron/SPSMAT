@@ -1,6 +1,6 @@
 # SPSMAT
 SPSMAT is an Octave/Matlab package to apply Spectral and Pseudospectral methods for solving ODEs and PDEs.
-There is a worthy Guidance in ./SPSMATDocumentation.pdf file. To learn how to work with this package read this file first. 
+There is a worthy [documentation](https://github.com/Sleron/SPSMAT/blob/master/SPSMATDocumentation.pdf) that helps you work with this package; for working with this package, read this file first. 
 
 
 This package is written in GNU Octave (Open source Matlab). See [Octave](https://www.gnu.org/software/octave/).
