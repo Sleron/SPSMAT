@@ -16,7 +16,7 @@ Now you have the latest version of SPSMAT.
 
 In some systems, as the last step, open Octave and type in >> setenv PYTHON python3
 
-Also, the [online version of Octave](https://octave-online.net/) is available to run and test codes. If you want to test this package's functions, you can also use this online version without installing it on your system.
+Also, the [online version of Octave](https://octave-online.net/) is available to run and test codes. If you want to test this package's functions, you can also use this online version without installing Octave on your system.
 
 
 Enjoy!
